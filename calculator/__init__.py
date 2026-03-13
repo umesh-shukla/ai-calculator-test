@@ -1,1 +1,1 @@
-# Calculator package
+"""Calculator package."""
